@@ -1,0 +1,12 @@
+.layout-main {
+  display: grid; 
+  justify-content: center;
+  justify-Items: center;
+  align-items: center;
+  align-content: center;
+  width: 100%;
+}
+
+button {
+ margin: 5px;
+}
